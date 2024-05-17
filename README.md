@@ -3,6 +3,10 @@
 This is the setup, written in lua language, for my neovim. It tranforms my neovim into a sort of IDE.
 
 ## Setup
+### Requirements
+- Terminal (obviously)
+- Node & npm
+- Nerd font (I personally use Jetbrains Mono)
 ### Installation
 - Install Neovim from the system's package manager repository. Ensure the version of Neovim is >= v0.9.5. For more information about the installation, [click here](https://github.com/neovim/neovim/blob/master/INSTALL.md)
 ### Configuration
