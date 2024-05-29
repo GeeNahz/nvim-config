@@ -1,5 +1,1 @@
-{
-    "diagnostics.globals": [
-        "vim"
-    ]
-}
+../../dotfiles/.config/nvim/.luarc.json

@@ -1,7 +1,1 @@
-return {
-  "olimorris/onedarkpro.nvim",
-  priority = 1000,
-  config = function()
-    vim.cmd("colorscheme onedark")
-  end
-}
+../../../../dotfiles/.config/nvim/lua/plugins/onedarkpro.lua

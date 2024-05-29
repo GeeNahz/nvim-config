@@ -1,2 +1,1 @@
-return {
-}
+../../../dotfiles/.config/nvim/lua/plugins.lua
